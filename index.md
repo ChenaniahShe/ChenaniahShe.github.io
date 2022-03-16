@@ -13,3 +13,4 @@ Contact me:
 Email: ChenaniahSean.gmail.com
 
 ---
+{% include disqus.html %}
