@@ -9,8 +9,8 @@ title: Chenaniah She -- Stupid is as stupid does.
 
 
 
-Contact me:  
-Email: ChenaniahSean.gmail.com  
+Contact me:<br/>
+Email: ChenaniahSean.gmail.com
 
 ---
-{% include disqus.html %}
+<!-- {% include disqus.html %} -->
