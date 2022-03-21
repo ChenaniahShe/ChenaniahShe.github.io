@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stupid is as stupid does.
+title: Chenaniah She -- Stupid is as stupid does.
 ---
 ---
 
@@ -9,7 +9,7 @@ title: Stupid is as stupid does.
 
 
 
-Contact me: 
+Contact me:
 Email: ChenaniahSean.gmail.com
 
 ---
