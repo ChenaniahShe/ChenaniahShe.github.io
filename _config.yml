@@ -1,0 +1,60 @@
+# Site settings
+title: Chenaniah She
+email: chenxi03_31@sina.com
+description: > #Chenaniah She's Zone
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://chenaniahshe.github.io/index.html" # the base hostname & protocol for your site
+
+# Paginate（分页）
+#gems: [jekyll-paginate]
+# 分页时每页博文数量
+#paginate: 10
+#paginate_path: "page:num"
+
+
+# Build settings
+# 语法高亮
+#highlighter: pygments
+# markdown解释器
+#markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+#relative_permalinks: true
+#博文的链接样式
+permalink: /:year-:month-:day-:title.html
+
+favicon: #/assets/image/favicon.ico
+
+# 博客作者相关
+author:
+  name: Chenaniah She
+  email: chenxi03_31@sina.com
+  link: https://chenaniahshe.github.io/
+  github: https://github.com/ChenaniahShe
+  github_username: ChenaniahShe
+
+
+locals:                                     #自定义常量
+  tags: 标签
+  about: 关于
+  active: 技术总结                                 #自定义常量
+subscribe_rss: /pages/atom.xml              #订阅地址
+
+# 头像
+avatar: #/assets/image/favicon.ico
+# avatar: http://7xpapo.com1.z0.glb.clouddn.com/blog/assets/image/favicon.ico
+# 网站CSS路径
+css: /assets/css/
+# css: http://7xpapo.com1.z0.glb.clouddn.com/blog/assets/css/
+# 网站JS路径
+js: /assets/js/
+# js: http://7xpapo.com1.z0.glb.clouddn.com/blog/assets/js/
+# 网站图片路径
+image: /assets/image/
+# image: http://7xpapo.com1.z0.glb.clouddn.com/blog/assets/image/
+
+# disqus 设置
+disqus:
+  shortname: Chenaniah She
