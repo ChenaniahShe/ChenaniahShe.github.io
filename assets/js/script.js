@@ -6,10 +6,12 @@
 \*---------------------------------*/
 
 // cnzz
-/*
+/* <Original Code. Discarded>
 var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
 document.write(unescape("%3Cspan id='cnzz_stat_icon_1256860805'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1256860805%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));
 */
+
+/* <Added Code by myself. Discarded, Testing>
 var cnzz_s_tag = document.createElement ('script');
     cnzz_s_tag.type = 'text/javascipt';
     cnzz_s_tag.async = true;
@@ -17,6 +19,7 @@ var cnzz_s_tag = document.createElement ('script');
     cnzz_s_tag.src = 'w.cnzz.com/c.php?...';
 var root_s = document.getElementsByTagName ('script')[0];
 root_s.parentNode.insertBefore (cnzz_s_tag, root_s);
+*/
 
 // Variables
 var sidebar    = $('#sidebar'),
